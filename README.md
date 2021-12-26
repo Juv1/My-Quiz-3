@@ -1,1 +1,1 @@
-# My-Quiz-3
+# My-Quiz-Game-3
